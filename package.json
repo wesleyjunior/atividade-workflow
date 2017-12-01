@@ -1,0 +1,23 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "atividade modulo workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "gulp"
+  ],
+  "author": "wesley",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
